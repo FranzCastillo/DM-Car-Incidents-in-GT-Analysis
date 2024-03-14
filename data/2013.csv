@@ -1,4 +1,4 @@
-"dia_ocu","mes_ocu",dia_sem_ocu,"hora_ocu","depto_ocu","mupio_ocu","areag_ocu","zona_ocu","sexo_pil","edad_pil","mayor_menor","tipo_veh","color_veh","modelo_veh","causa_acc","marca_veh",g_edad_pil,estado_con,"grupo_mode_veh","year"
+"dia_ocu","mes_ocu",dia_sem_ocu,"hora_ocu","depto_ocu","mupio_ocu","areag_ocu","zona_ocu","sexo_pil","edad_pil","mayor_menor","tipo_vehi","color_veh","modelo_vehi","causa_acc","marca_vehi",g_edad_pil,estado_pil,"grupo_mode_veh","year"
 1,"Enero","Martes",3,"Guatemala","Chinuautla","URBANO","6","Hombre","32","Mayor","Pick up","Ignorado","Ignorado","CHOQUE","Ignorado","30-34","EBRIO","Ignorado","2013"
 1,"Enero","Martes",5,"Guatemala","Guatemala","URBANO","11","Hombre","34","Mayor","Automovil","Blanco","2010-2013","CHOQUE","Chevrolet","30-34","EBRIO","2010-2014","2013"
 1,"Enero","Martes",3,"Guatemala","Mixco","URBANO","3","Hombre","28","Mayor","Automovil","Gris","Ignorado","COLISION","Hyundai","25-29","EBRIO","Ignorado","2013"

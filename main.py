@@ -30,6 +30,7 @@ def main():
             # Print the file name and the missing headers
             missing_headers = set(standard_header) - set(header)
             print(f"The file {csv_files[i]} is missing the following headers: {missing_headers}")
+    
 
 if __name__ == '__main__':
     main()
