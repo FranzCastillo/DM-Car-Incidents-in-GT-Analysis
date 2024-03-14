@@ -1,4 +1,4 @@
-"corre_base",dia_ocu,dia_sem_ocu,"hora_ocu","g_hora","mes_ocu","depto_ocu","mupio_ocu","zona_ocu",area_geo_ocu,"sexo_con","edad_con","g_edad","mayor_menor","estado_con","tipo_veh","modelo_veh","color_veh","marca_veh","tipo_eve","year"
+"corre_base",dia_ocu,dia_sem_ocu,"hora_ocu","g_hora","mes_ocu","depto_ocu","mupio_ocu","zona_ocu",areag_ocu,"sexo_pil","edad_pil","g_edad_pil","mayor_menor","estado_pil","tipo_vehi","modelo_vehi","color_veh","marca_vehi","causa_acc","year"
 1,1,"Miércoles",4,"00:00 a 05:59","Enero","Guatemala","Guatemala","7","Urbano","Hombre","20","20-24","Mayor","Ignorado","Automóvil","1990 - 1999","Negro","Mazda","Colisión","2014"
 2,1,"Miércoles",4,"00:00 a 05:59","Enero","Guatemala","Guatemala","7","Urbano","Hombre","21","20-24","Mayor","Ignorado","Automóvil","2000 - 2009","Ignorado","Volsk waguen","Colisión","2014"
 3,1,"Miércoles",4,"00:00 a 05:59","Enero","Guatemala","Guatemala","7","Urbano","Mujer","21","20-24","Mayor","Ignorado","Camioneta","2000 - 2009","Beige","Honda","Colisión","2014"
