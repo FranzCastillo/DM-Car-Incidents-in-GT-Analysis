@@ -1,5 +1,5 @@
 # Análisis sobre los Hechos de Tránsito en Guatemala
-Los datos con los que se realiza el siguiente análisis son obtenidos del portal del Instituto Nacional de Estadística (INE) de Guatemala. Pueden ser descargados [acá](https://www.ine.gob.gt/bases-de-datos/accidentes-de-transito/).
+Los datos con los que se realiza el siguiente análisis son obtenidos del portal del Instituto Nacional de Estadística (INE) de Guatemala. Pueden ser descargados [aquí](https://www.ine.gob.gt/bases-de-datos/accidentes-de-transito/).
 
 ## Objetivos generales
 - Comprender exhaustivamente los patrones y factores de riesgo asociados con los hechos de tránsito, utilizando herramientas de minería de datos para identificar relaciones significativas entre las variables involucradas.
