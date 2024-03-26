@@ -12,7 +12,6 @@ Los datos con los que se realiza el siguiente análisis son obtenidos del portal
 - Identificar factores de riesgo específicos asociados con las causas y tipos de vehículos involucrados en los accidentes de tráfico, con el fin de desarrollar estrategias de prevención dirigidas y efectivas.
 
 ## Descripción de datos
-Descripción de los datos
 
 ### Descripción de las variables
 - dia_ocu: Día en el que ocurrió el accidente.
